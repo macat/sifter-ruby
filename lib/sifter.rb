@@ -22,6 +22,8 @@ class Sifter
     property :opener_name
     property :url
     property :api_url
+    property :created_at
+    property :updated_at
     
   end
 
