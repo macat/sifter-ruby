@@ -24,6 +24,7 @@ class Sifter
     property :api_url
     property :created_at
     property :updated_at
+    property :comment_count
     
   end
 
